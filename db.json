@@ -1,0 +1,41 @@
+{"playstation": [{
+  "id":1,
+  "title": "MORTAL COMBAT",
+  "year": 1996,
+  "genre": "Action/Fantasy",
+  "company": "Midway Games",
+  "rating": 4
+
+},
+{
+  "id":2,
+  "title": "DON'T STARVE",
+  "year": 2013,
+  "genre": "Survival",
+  "company": " Klei Entertainment",
+  "rating": 5
+},
+{
+  "id":3, 
+  "title": "FALLOUT 4",
+  "year": 2015,
+  "genre": "Action",
+  "company": "Bethesda Softworks",
+  "rating": 5
+},
+{
+  "id":4,
+  "title": "LAST OF US PART 2",
+  "year": 2020,
+  "genre": "Adventure",
+  "company": "Naughty Dog",
+  "rating": 4
+},
+{
+  "id":5,
+  "title": "Grand Theft Auto V",
+  "year": 2013,
+  "genre": "Video game",
+  "company": "Rockstar Games",
+  "rating": 4
+}]}
